@@ -1,0 +1,93 @@
+# 🍔 Food Delivery Web Application
+
+A full-stack Food Delivery Web Application built using Java, Spring Boot, Hibernate, MySQL, JSP, HTML, CSS, JavaScript, and Bootstrap. The application enables users to browse restaurants, view menus, manage carts, and place food orders seamlessly.
+
+## 🚀 Features
+
+- User Registration and Login
+- Restaurant Listing
+- Menu Management
+- Food Search and Browsing
+- Add to Cart Functionality
+- Order Placement
+- Order History
+- Admin Dashboard
+- Restaurant Management
+- Category Management
+- Responsive User Interface
+
+## 🛠️ Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- Spring MVC
+- Hibernate
+- JPA
+
+### Frontend
+- JSP
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+### Database
+- MySQL
+
+### Build Tool
+- Maven
+
+### Version Control
+- Git & GitHub
+
+## 📂 Project Structure
+
+```
+src/
+├── main/
+│   ├── java/
+│   ├── resources/
+│   └── webapp/
+```
+
+## ▶️ How to Run
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/suman-kumar-eng/food-delivery-app.git
+```
+
+2. Configure MySQL database in `application.properties`
+
+3. Run the application
+
+```bash
+mvn spring-boot:run
+```
+
+4. Open browser
+
+```
+http://localhost:8080
+```
+
+## 📸 Screenshots
+
+Add application screenshots here.
+
+## 🎯 Learning Outcomes
+
+- Spring Boot Development
+- MVC Architecture
+- Database Integration using MySQL
+- Hibernate/JPA ORM
+- Session Management
+- Full Stack Web Development
+
+## 👨‍💻 Author
+
+Suman Kumar
+
+GitHub: https://github.com/suman-kumar-eng
